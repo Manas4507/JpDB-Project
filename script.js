@@ -1,4 +1,4 @@
-var token = '90934543|-31949209746192862|90958991';
+var token = '90934543|-31949209746192862|90958991'; //replace with your token 
 var dbname = 'DELIVERY-DB';
 var relation = "SHIPMENT-TABLE";
 var baseUrl = "http://api.login2explore.com:5577";
